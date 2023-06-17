@@ -6,7 +6,7 @@ year 2, semestre 1
 
 ### Project
 
-Adaptation of the *Space Invader* traditional game, using Design Patterns and the Model-Viewer-Controller Architectural Pattern and developed in **Java**. The user is a spacechip whose goal is to kill the monster by shooting bullets. The game has three levels of increased difficulty that can be passed by killing all the existing monsters.
+Adaptation of the *Space Invader* traditional game, using Design Patterns and the Model-Viewer-Controller Architectural Pattern and developed in **Java** . The user is a spacechip whose goal is to kill the monster by shooting bullets. The game has three levels of increased difficulty that can be passed by killing all the existing monsters.
 
 
 
