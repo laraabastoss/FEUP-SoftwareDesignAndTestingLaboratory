@@ -17,6 +17,11 @@ Adaptation of the **Space Invaders** traditional game, developed using Design Pa
 
 **Technologies Used:** Java, JUnit Framework
 
+**Team Members:**
+
+- Lara Bastos (up202108740)
+- Lia Sobral (up202108741)
+- Miguel Barros (up202108678)
 
 **Project Repository:**  https://github.com/laraabastoss/SoftwareDesignAndTestingLaboratory/tree/main/proj
 
