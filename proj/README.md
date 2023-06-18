@@ -2,7 +2,7 @@
 
 In this games the user is a spaceship and needs to kills all the monsters by shotting bullets. The monsters can shoot back and if they hit the spaceship, the user loses one of the three lifes it starts with. If all the monsters are killed, the user passes to the next level. Each level is increasingly harder because the monster move faster and shoot more bullets If the user has zero lives left, it loses. There are three walls composed by blocks that protect the monster. If a bullets hits the wall, it starts desctructing, losing one block at a time.
 
-For the full report: [https://github.com/FEUP-LDTS-2022/SoftwareDesignAndTestingLaboratory/blob/FirstScreen/docs/README.md]
+For the full report: [https://github.com/FEUP-LDTS-2022/SoftwareDesignAndTestingLaboratory/blob/FirstScreen/docs/README.md](https://github.com/laraabastoss/SoftwareDesignAndTestingLaboratory/tree/main/proj/docs)
 
 This project was developed by *Lara Bastos* (up202108740@fe.up.pt), *Lia Sobral* (up202108741@fe.up.pt) and *Miguel Barros* (up202108678@fe.up.pt).
 
